@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#FF0000</color><!--红色 -->
+    <color name="gray">#808080</color><!--灰色 -->
+    <color name="black">#000000</color><!--黑色 -->
+    <color name="white">#FFFFFF</color><!--白色 -->
+    <color name="dodgerblue">#1E90FF</color><!--闪兰色 -->
+
+    <color name="background">#E0E0E0</color>
+    <color name="login_background">#ffe5e5e5</color>
+
+    <color name="colorTitle">#ff3b3b3b</color>
+    <color name="colorHint">#ff9b9a9a</color>
+    <color name="colorAbs">#ffa6a6a6</color>
+    <color name="colorDate">#ff398dee</color>
+
+    <color name="footerText">#ff292929</color>
+
+    <color name="divider_grey">#ffcccccc</color>
+</resources>

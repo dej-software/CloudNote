@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CloudNote</string>
+    <string name="tab_note">云笔记</string>
+    <string name="tab_setting">设置</string>
+    <string name="footer_edit">编辑</string>
+    <string name="footer_delete">删除</string>
+    <string name="sync">同步</string>
+    <string name="menu_complete">完成</string>
+    <string name="menu_delete">删除</string>
+    <string name="empty_title_hint">点击输入标题</string>
+    <string name="empty_content">输入您的笔记</string>
+    <string name="title_activity_user_login">Sign in</string>
+
+    <string name="error_invalid_account">用户名为6-18个字符，以字母开头，由字母+数字+下划线构成</string>
+    <string name="error_exist_account">用户名已被注册，请输入新用户名</string>
+    <string name="error_invalid_password">密码不符合(6-16个字符)</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">不能为空</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="account_str">账号：</string>
+    <string name="password_str">密码：</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="login_title">用户登录</string>
+    <string name="account_digits">_0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="regist_title">用户注册</string>
+    <string name="register_now">立即注册</string>
+    <string name="account_title">我的账号</string>
+    <string name="exit_login">退出登录</string>
+    <string name="click_login">点击头像登录</string>
+</resources>
