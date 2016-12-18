@@ -19,4 +19,4 @@ file-upload.php 文件上传的操作
 注：使用第三方后端云进行开发效果更佳！
 
 ## 软件截图
-
+![](http://i.imgur.com/bZpbsHU.png)
